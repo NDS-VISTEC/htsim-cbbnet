@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(python3 -m pip show pdf2image)",
+      "Bash(python3 -m pip install pdf2image)"
+    ]
+  }
+}
